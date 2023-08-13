@@ -9,16 +9,16 @@ Cualquier consulta o error presente en el libro pueden ser hechas directamente m
 ## Unidades 📚
 El libro se divide en múltiples unidades acordes a la división hecha en la impartición del curso, estas son:
 1. **Introducción a la Inteligencia Artificial**
-1.1 Primer acercamiento
-1.2 Historia temprana
-1.3 El renacimiento de la IA
-1.4 Áreas de ingestigación
+- Primer acercamiento
+- Historia temprana
+- El renacimiento de la IA
+- Áreas de ingestigación
 2. **ASP y programación lógica (WIP)**
-2.1 Instalación y setup
-2.2 Uso de Clingo
-2.3 Introducción a Clingo
-2.4 Propiedades avanzadas de Clingo
-2.5 Modelación de problemas en Clingo
+- Instalación y setup
+- Uso de Clingo
+- Introducción a Clingo
+- Propiedades avanzadas de Clingo
+- Modelación de problemas en Clingo
 3. **Problemas de búsqueda en computación (no escrito)**
 4. **Introducción al Machine Learning (no escrito)**
 5. **Redes Neuronales (no escrito)**
